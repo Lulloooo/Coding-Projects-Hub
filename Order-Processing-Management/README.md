@@ -15,7 +15,7 @@ To sum up, the main steps are:
 &nbsp;&nbsp;3️⃣ Products with codes that are within the column named "code" of the invoice will be added to the report.  
 &nbsp;&nbsp;4️⃣ The program will retrieve from "img" folder the spare parts' pictures that match the codes in the "codes" column. **Note.** It is fundamental that spare parte pictures are named after their code (i.e A01 for product with code A01), in this way the program will match codes and picture.  
 &nbsp;&nbsp;5️⃣ The Invoice "Quantity" column is read. To each spare parts will be assigned its corresponding quantity.  
-&nbsp;&nbsp;6️⃣ A "Final Report" will open in a new window. It will include (in order) for every product: picture, code, quantity and interactive checkbox. The report will have a layout of 3x3 and it is intendend to be printed on an A4 paper.
+&nbsp;&nbsp;6️⃣ A "Final Report" will open in a new window. It will include (in order) for every product: picture, code, quantity and interactive checkbox. The report will have a layout of 3x3 and it is intendend to be printed on an A4 paper.  
 &nbsp;&nbsp;7️⃣ In the new window, a "Save as pdf" button is displayed. By clicking on it, it will save the scrollable window from point 6. into a pdf file on the computer's desktop. This pdf-version should then be printed so the operator can carry it with itself while processing the order.  
 &nbsp;&nbsp;(8️⃣) Once the operator ticks all the checkboxes, the program will send an "order is ready" notification to the central administration. (this feature is not yet implemented).
 
