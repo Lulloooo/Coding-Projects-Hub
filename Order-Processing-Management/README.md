@@ -19,7 +19,7 @@ To sum up, the main steps are:
 &nbsp;&nbsp;7️⃣ In the new window, a "Save as pdf" button is displayed. By clicking on it, it will save the scrollable window from point 6. into a pdf file on the computer's desktop. This pdf-version should then be printed so the operator can carry it with itself while processing the order.  
 &nbsp;&nbsp;(8️⃣) Once the operator ticks all the checkboxes, the program will send an "order is ready" notification to the central administration. (this feature is not yet implemented).
 
-### ➕ To be added (during the first run)
+### ➕ To be defined (during the first run)
 Before running the program, files path should be changes based on the computer it will run on. All of the path below should be defined during the program first run:
 * logo path: define where the firm's logo is stored
 * img path: define the folder where images are stored. Note: name the product picture after the name they have within the invoices.
