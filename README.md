@@ -14,6 +14,6 @@ Feel free to explore 🔎 any folder you like.
 My code might be a little messy. I'm not a top-notch dev, I am just a BDA who enjoys learning something new after all. That's why I'm open to any comment or feedbacks that will help me improve as a coder.   
 Just reach out 📩 -- I'll be happy to hear that. 💬  
 <a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="80"></a>
-<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="45"></a>
+<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="30"></a>
 
 **Note**: Any work-related project has been approved for posting, with all sensitive information and data omitted to protect privacy.
