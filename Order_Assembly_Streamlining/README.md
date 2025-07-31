@@ -1,7 +1,7 @@
 # 📦 Order Processing & Assembly Streamlining Program 
 📩
 <a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="80"></a>
-<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="45"></a>
+<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="32"></a>
 📩
 
 ## 🎯 PURPOSES
