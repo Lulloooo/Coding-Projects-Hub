@@ -74,7 +74,7 @@ In this repository it can be found (not considering this ReadMe):
 Feel free to reach out for suggesting changes and improvements. I'll be happy to chat about it and implement them. 💬  
 Be sure to let me know if you plan to employ this program and cite me whenever you use it. 🖋️  
 <a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="80"></a>
-<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="45"></a>
+<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="32"></a>
 
 **Note**: Any work-related projects has been approved for posting, and all sensitive information and data are omitted to protect privacy. Projects containing sensitive data has not been posted. 
 
