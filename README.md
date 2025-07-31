@@ -10,10 +10,19 @@ Each folder name gives a hint about what the project is about. If it seems a bit
 - 3️⃣ **Other Files/Folders**: Any file/folder useful for the program.
 
 Feel free to explore 🔎 any folder you like.   
-⚠️ Beware that you are entering in an extremely dangerous zone ⚠️  
-My code might be a little messy. I'm not a top-notch dev, I am just a BDA who enjoys learning something new after all. That's why I'm open to any comment or feedbacks that will help me improve as a coder.   
+  
+### 🗂️ Repo's Index 🗂️
+
+| 📁 Repo Name | 🔤 Project's Title | 💬 Brief Description |
+| :---:        | :---:              | :---:                |
+| [Order_Assembly_Streamlining](https://github.com/Lulloooo/Coding-Projects-Hub.git) | Order Processing & Assembling Streamlining | Reduce retailer's orders processing time & speed up custom & clearence procedures for foreign orders |
+<br>    
+  
+⚠️ Beware that you are entering in an extremely dangerous zone ⚠️   
+  
+My code might be a little messy. I'm not a top-notch dev, I am just a BDA who enjoys learning something new after all. That's why I'm open to any comment or feedbacks that will help me improve as a coder.  
 Just reach out 📩 -- I'll be happy to hear that. 💬  
 <a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="80"></a>
 <a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="30"></a>
-
+  
 **Note**: Any work-related project has been approved for posting, with all sensitive information and data omitted to protect privacy.
