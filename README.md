@@ -16,9 +16,10 @@ Feel free to explore 🔎 any folder you like.
 | 📁 Repo Name | 🔤 Project's Title | 💬 Brief Description |
 | :---:        | :---:              | :---:                |
 | [Order_Assembly_Streamlining](https://github.com/Lulloooo/Coding-Projects-Hub.git) | Order Processing & Assembling Streamlining | Reduce retailer's orders processing time & speed up custom & clearence procedures for foreign orders |
+| [SiameseCNN-ImgMatching](https://github.com/Lulloooo/Coding-Projects-Hub/tree/main/SiameseCNN-ImgMatching) | Siamese CNN for imgs matching | Identify and match handwritten or imaged digits using a Siamese CNN trained to measure visual similarity  |
 <br>    
   
-⚠️ Beware that you are entering in an extremely dangerous zone ⚠️   
+### ⚠️ Beware: you are entering an extremely dangerous zone ⚠️   
   
 My code might be a little messy. I'm not a top-notch dev, I am just a BDA who enjoys learning something new after all. That's why I'm open to any comment or feedbacks that will help me improve as a coder.  
 Just reach out 📩 -- I'll be happy to hear that. 💬  
