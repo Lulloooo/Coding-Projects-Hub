@@ -3,10 +3,10 @@
 <a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="80"></a>
 <a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="32"></a>
 📩  
-
-**🎯Try out the model [here](https://huggingface.co/spaces/Lullooo/SiameseCNN-ImgMatching)**  
-Or check out model performances and examples [here 📈](https://github.com/Lulloooo/SiameseNet-NumRecognition/blob/main/Performances-Examples.md)
+### **🎯Try out the model [here](https://huggingface.co/spaces/Lullooo/SiameseCNN-ImgMatching)**
+Or check out its performances and examples [here 📈](https://github.com/Lulloooo/SiameseNet-NumRecognition/blob/main/Performances-Examples.md)  
 <br/><br/>
+
 ## 🎯 PURPOSES
 This project aims to develop a Siamese Neural Network 🧠 able to match and identify different kinds of numerical digits 🔢.  
 The model learns to measure how similar two images are rather than directly classifying them. This makes it suitable for tasks like:  
